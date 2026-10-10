@@ -125,4 +125,4 @@ Windows 10/11、macOS 12+、RAM 4 GB以上 — 上の要件をご覧ください
 
 ---
 
-*serene-phoenix-871 · 更新 2026-10-09 · MITライセンスで共有*
+*serene-phoenix-871 · 更新 2026-10-10 · MITライセンスで共有*
